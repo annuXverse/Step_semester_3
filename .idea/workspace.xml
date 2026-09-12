@@ -15,6 +15,8 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/class_problems/q4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/class_problems/q5.java" afterDir="false" />
     </list>
+  <component name="ChangeListManager">
+    <list default="true" id="b80611de-5434-494f-9ca0-4eabd6140726" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +37,13 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3IGVDXeDOJNEZ8Xj7nY1wCkrpw8" />
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JCT2NyZlcwp0VdNRs6DWKJR5rf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,6 +63,8 @@
     "Application.q3.executor": "Run",
     "Application.q4.executor": "Run",
     "Application.q5.executor": "Run",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
     "Application.question1.executor": "Run",
     "Application.question2.executor": "Run",
     "Application.question3.executor": "Run",
@@ -74,6 +85,30 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "feature/session__1",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/annu_/OneDrive/Desktop/JAVA/Step_semester_3/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Step_semester_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -90,5 +125,24 @@
       <updated>1787390772739</updated>
     </task>
     <servers />
+  </component>
+      <changelist id="b80611de-5434-494f-9ca0-4eabd6140726" name="Changes" comment="" />
+      <created>1789163843718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789163843718</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
