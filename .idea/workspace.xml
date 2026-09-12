@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1804b53b-f832-4488-85a8-5317d5478575" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/class_assignment/assignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class_assignment/assignment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class_assignment/assignment3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class_assignment/assignment4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class_problems/q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class_problems/q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class_problems/q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class_problems/q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/class_problems/q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
   <component name="ChangeListManager">
     <list default="true" id="b80611de-5434-494f-9ca0-4eabd6140726" name="Changes" comment="" />
@@ -53,6 +45,8 @@
     "Application.assignment1.executor": "Run",
     "Application.assignment2.executor": "Run",
     "Application.assignment3.executor": "Run",
+    "Application.assignment4.executor": "Run",
+    "Application.assignment5.executor": "Run",
     "Application.lvl1q1.executor": "Run",
     "Application.lvl1q2.executor": "Run",
     "Application.lvl2q3.executor": "Run",
